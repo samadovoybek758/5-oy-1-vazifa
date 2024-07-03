@@ -46,29 +46,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // yozuvga oidlari
 // 1-masala
 // let str = "hello dunyo";
